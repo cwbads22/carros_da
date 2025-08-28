@@ -60,3 +60,7 @@ o código html/css/js do site interativo.<br>
 <br>
 
 https://cwbads22.github.io/carros_da/
+<br>
+<br>
+🌟 Dentro da pasta 📁/Scrap estão as bases de dados extraídas da web juntamente com o arquivo do Jupyter com os<br>
+códigos Python utilizado na análise.<br>
